@@ -1,0 +1,127 @@
+/* body{
+    color: rgb 23,29;
+    box-shadow: 100px 0 100px rgba(4, 252, 4, 0.3);
+    background : rgb(rgb(145, 145, 111));
+    padding: 20px;
+    -ms-layout-grid:fixed;
+    background-image:linear-gradient(right to left(rgb(rgb(233, 11, 11)))),(rgb(rgb(11, 248, 11)),(rgb(rgb(7, 7, 245))));
+    font-family: 'Times New Roman', Times, serif;
+    background-size:auto;
+    background-position:center;
+    position:absolute;
+}
+div{
+    width: 50px;
+    height: 50%;
+}
+
+.signupform {
+    width: 400px ;
+    margin:auto;
+    text-align: center ;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 150px;
+    border: 1px solid rgb(253, 246, 246);
+    outline: none;
+}
+button{
+    color: rgb(10, 10, 10);
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.signup-btn{
+    background-color:rgb(243, 243, 103) ;
+}
+.twitter-btn{
+    background-color:rgb(243, 243, 103);
+}
+a{
+    text-decoration: none;
+}
+
+
+.or{
+    background: none;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+img{
+    float: center;
+    width: 70px;
+} */
+
+body{
+    color: rgb23, 29;
+    box-shadow: 100PX 0 100px 0 rgba(221, 27, 27, 0.3);
+    background : rgb(235, 238, 219);
+    padding: 20px;
+    -ms-layout-grid: fixed;
+    background-image:linear-gradient(to left,rgb(8, 174, 47),rgb(127, 249, 94),rgb(174, 245, 158),rgb(223, 240, 225));
+    font-family: 'Times New Roman', Times, serif;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+div{
+    width: 50px;
+    height: 50%;
+}
+
+.signupform {
+    width: 300px;
+    margin: auto ;
+    text-align: cent 31;
+    margin-bottom: 30px;
+}
+
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 150px;
+    border: 1px solid #999;
+    outline: none;
+}
+button{
+    color: rgb(243, 239, 231);
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.signup-btn{
+    background-color: #067c18;
+}
+.login-btn{
+    background-color: #067c18;
+}
+a{
+    text-decoration: none;
+}
+
+
+.or{
+    background: none;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+img{
+    width: 90px;
+}
